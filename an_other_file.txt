@@ -1,0 +1,7 @@
+pour add ce file 
+jai fait sur mon terminal: 
+touch nomDuFile
+git add nomDuFile
+git commit -m "avec un message ici" 
+git push 
+et puis refresh la page GitHub et ca marche bien 
